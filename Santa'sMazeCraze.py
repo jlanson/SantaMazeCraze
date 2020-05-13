@@ -1,8 +1,5 @@
 #Santa's Maze Craze
 #Creates a game that requires controls from user in order to run and complete
-#@author Jonathan Lanson and Stephanie Nguyen
-#@course ICS3U
-#@date 2017/01/21
 
 import pygame
 import random
